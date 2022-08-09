@@ -1,7 +1,7 @@
 ### Olá, muito prazer! Meu nome é Maria Eduarda👋
 
 - 🌱 Estudando e aperfeiçoando Typescript, Node js e banco de dados MySQL
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - 💬 Vamos conversar e aumentar essa rede? 
 
  <div style="display: inline_block" align="center">
