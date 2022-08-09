@@ -30,7 +30,7 @@
   <img align="center" alt="Duda-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Duda-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
      
-
+  ![Snake animation](https://github.com/LopesEduarda/LopesEduarda/blob/output/github-contribution-grid-snake.svg)
        
 </div>
      
