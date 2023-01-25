@@ -1,5 +1,4 @@
 ### Olá, muito prazer! Meu nome é Maria Eduarda👋
-<p>Confira o <a href="https://portfolio-maria-eduarda-lopes.surge.sh/">meu portfólio!</a></p>
 <br>
 
 - 🌱 Estudando e aperfeiçoando Typescript, Node js e banco de dados MySQL
