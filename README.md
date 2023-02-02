@@ -1,46 +1,47 @@
-### Olá, muito prazer! Meu nome é Maria Eduarda👋
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-- 🌱 Estudando e aperfeiçoando React js + Node js
-- 😄 Pronomes: ela/dela
-- 💬 Vamos conversar e aumentar essa rede? 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Maria+Eduarda+Lopes;Tenho+23+anos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<div style="display: inline_block" align="center">
-  <a href = "mariaeduarda-reis-lopes@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-lopes-097aab227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LopesEduarda&bg_color=0d1117&color=b13583&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lopesEduarda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<br />
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lopesEduarda&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Eduarda Lopes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesEduarda&layout=compact&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117" />
+</div>
+
+<br />
+
+
+<br />
+
+<div align="center"> 
+ <a href = "mariaeduarda-reis-lopes@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-lopes-097aab227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-<br>
-  
-  <div>
- <a href="https://github.com/LopesEduarda"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lopeseduarda&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeseduarda&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-  
-  
-  <br />
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Duda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Duda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Duda-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Duda-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Duda-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-     
-  <br/>
-
-  
-  <br />
-  ![Snake animation](https://github.com/LopesEduarda/LopesEduarda/blob/output/github-contribution-grid-snake.svg)
-       
-</div>
-     
-  ##
-  
+ <br />
  
-  
+### Minhas skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Estudando/Aperfeiçoando atualmente:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<br />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+
