@@ -12,14 +12,15 @@
  </div>
  
 <br>
-
-<div align="center">
-  <a href="https://github.com/LopesEduarda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopesEduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesEduarda&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <div>
+ <a href="https://github.com/LopesEduarda"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lopeseduarda&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeseduarda&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
-<br>
+  
+  
+  <br />
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,6 +32,10 @@
   <img align="center" alt="Duda-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Duda-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
      
+  <br/>
+
+  
+  <br />
   ![Snake animation](https://github.com/LopesEduarda/LopesEduarda/blob/output/github-contribution-grid-snake.svg)
        
 </div>
