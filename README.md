@@ -5,20 +5,6 @@
 - 😄 Pronomes: ela/dela
 - 💬 Vamos conversar e aumentar essa rede? 
 
- <div style="display: inline_block" align="center">
-  <a href = "mariaeduarda-reis-lopes@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-lopes-097aab227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- </div>
- 
-<br>
-
-<div align="center">
-  <a href="https://github.com/LopesEduarda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopesEduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesEduarda&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br>
 
 <div style="display: inline_block" align="center"><br>
